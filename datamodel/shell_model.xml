@@ -1,0 +1,14 @@
+<Shell>
+    <ShellAttributes />
+    <ShellModel Family="Cloud Service">
+        <ResourceModel Name="TemevaService" Description="" SupportsConcurrentCommands="false">
+            <AttachedAttributes />
+            <AttributeValues />
+            <ParentModels />
+            <Drivers>
+                <DriverName>TemevaServiceDriver</DriverName>
+            </Drivers>
+            <Scripts />
+        </ResourceModel>
+    </ShellModel>
+</Shell>
